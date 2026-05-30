@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerctringify",
+        "uuid": 4455792,
+        "checksum": "fat1k"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
